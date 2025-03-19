@@ -6,12 +6,12 @@
    <elementGuidId>8cc4c85f-bf02-4316-888f-41e496881fc0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='menu-toggle']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#menu-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu-toggle']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2e4005e0-699a-4e69-a230-55a146560582</webElementGuid>
+      <webElementGuid>c5e6e33a-9835-43bc-97a7-b6b5a242b989</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>menu-toggle</value>
-      <webElementGuid>8778f0b5-fb93-4d45-8d96-8515bec42250</webElementGuid>
+      <webElementGuid>5ce028fc-8f0f-4a42-a2c0-6e192535930d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>ebe40da6-4cc8-464d-8677-5983818e07cb</webElementGuid>
+      <webElementGuid>065e2a7d-557d-4527-a2fb-f40972051840</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-dark btn-lg toggle</value>
-      <webElementGuid>e5afe2fe-6e71-4b0e-a67b-c0fa4ae0dec2</webElementGuid>
+      <webElementGuid>d414de10-1a90-47ed-a957-b5523c7c351e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu-toggle&quot;)</value>
-      <webElementGuid>9766a8dd-c598-4277-a999-5d4d92484ebf</webElementGuid>
+      <webElementGuid>3952f625-a3d7-4450-8bc9-89a3cebb67b7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='menu-toggle']</value>
-      <webElementGuid>6f740b9d-a0f7-4d0c-a929-9668664fc74f</webElementGuid>
+      <webElementGuid>3d3d979f-2a98-4074-864d-bf3896656c42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare'])[1]/preceding::a[2]</value>
-      <webElementGuid>3921300c-8893-4132-9ecb-141d05464e58</webElementGuid>
+      <webElementGuid>85e84569-0f8a-4458-ba71-8b950fba7d1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::a[3]</value>
-      <webElementGuid>bc7e0b03-74bb-4736-8a84-eca415a4ffd9</webElementGuid>
+      <webElementGuid>d24ac709-0f45-41bf-973e-3703992cf9d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>b991e562-31d4-4ee3-b9b0-076dd15ab09d</webElementGuid>
+      <webElementGuid>6febcd2e-8c86-4305-9393-b20235b3d0e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>7f26af8e-1627-4389-9f78-2ddb453bd9d1</webElementGuid>
+      <webElementGuid>a87e0054-7241-4117-b352-918ea53dfa18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'menu-toggle' and @href = '#']</value>
-      <webElementGuid>7b5343e2-e0c2-44ca-9d4e-f8e11febb1e0</webElementGuid>
+      <webElementGuid>bf59564d-339a-4fa9-a5a9-5cc961616cfd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

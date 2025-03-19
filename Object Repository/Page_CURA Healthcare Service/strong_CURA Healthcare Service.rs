@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_28</name>
+   <name>strong_CURA Healthcare Service</name>
    <tag></tag>
-   <elementGuidId>8fa7a5d2-f0b6-4a5f-98fa-7f0ec16077ac</elementGuidId>
+   <elementGuidId>0746f09a-34bb-43ea-bb47-28dcea1ec03a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>strong</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[34]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::strong[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=cell[name=&quot;28&quot;i] >> nth=1</value>
+         <value>internal:role=strong</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,79 +28,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>87e6e644-62af-48f3-b111-f970a1f92607</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>day</value>
-      <webElementGuid>67f11721-dd83-4272-aae2-6037c9a93ce6</webElementGuid>
+      <value>strong</value>
+      <webElementGuid>9d4ddb85-7488-4c76-96a0-3dce44dc89f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>28</value>
-      <webElementGuid>11490839-b680-4aa2-8775-59caea96a8eb</webElementGuid>
+      <value>CURA Healthcare Service</value>
+      <webElementGuid>1cdf5f38-5d68-4e13-a6bc-6ef18f2b07f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[5]/td[@class=&quot;day&quot;]</value>
-      <webElementGuid>2c177d6a-e31d-40f5-a71f-7154c98f1175</webElementGuid>
+      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 text-center&quot;]/h4[1]/strong[1]</value>
+      <webElementGuid>4cf4aca5-9f54-4ba2-a506-848a719330f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[34]</value>
-      <webElementGuid>cbada63a-862f-4982-a488-d5eceaa071f5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::strong[1]</value>
+      <webElementGuid>afbc52a8-3db5-4c40-a251-f58d15e0d386</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[34]</value>
-      <webElementGuid>0e0c01fb-b763-4401-90ee-1db64a900382</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/following::strong[1]</value>
+      <webElementGuid>50625f19-16e3-4578-91e0-dcf7e9875c97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[9]</value>
-      <webElementGuid>1a8625e5-726d-4b30-8b36-b13c8b926a71</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(678) 813-1KMS'])[1]/preceding::strong[1]</value>
+      <webElementGuid>20e7ea1d-e3ad-4855-8d31-b38cd829ea6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[9]</value>
-      <webElementGuid>7f45559f-dee9-4a4e-994d-9cbcb3c75efe</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='info@katalon.com'])[1]/preceding::strong[1]</value>
+      <webElementGuid>89275f46-5dce-4502-8320-7f4f9f1971f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[5]/td[6]</value>
-      <webElementGuid>d67049f1-436f-453d-91f4-7c194fe7e315</webElementGuid>
+      <value>//strong</value>
+      <webElementGuid>26705819-401d-406e-a870-2eeccd8bbbc5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = '28' or . = '28')]</value>
-      <webElementGuid>210c4a04-28f6-4893-b647-7ab86b213ae2</webElementGuid>
+      <value>//strong[(text() = 'CURA Healthcare Service' or . = 'CURA Healthcare Service')]</value>
+      <webElementGuid>9e2f8f80-2737-4539-bbd9-7e6b230a2293</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
